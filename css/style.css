@@ -81,3 +81,12 @@ footer {
   clear: both;
   height: 0;
 }
+.matched, .nonMatch {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #f15b31;
+}
+#instructions {
+  height: 150px;
+}
